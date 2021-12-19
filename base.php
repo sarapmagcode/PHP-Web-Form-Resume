@@ -51,6 +51,7 @@
     $awards = "Awards";
     $award_names = array("FEU Tech: Clash of Coders 2021 Champion",
                         "FEU Alabang: CODEVENTION 2021 1st Runner-up",
-                        "MTA: Introduction to Programming Using Javac");
-    $images = array("./images/coc.png", "./images/ven.png", "./images/mta.jpeg");
+                        "ITS Specialist(Foundational) - Python",
+                        "MTA: Introduction to Programming Using Java");
+    $images = array("./images/coc.png", "./images/ven.png", "./images/its.png", "./images/mta.jpeg");
 ?>
