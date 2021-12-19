@@ -53,5 +53,5 @@
                         "FEU Alabang: CODEVENTION 2021 1st Runner-up",
                         "ITS Specialist(Foundational) - Python",
                         "MTA: Introduction to Programming Using Java");
-    $images = array("./images/coc.png", "./images/ven.png", "./images/its.png", "./images/mta.jpeg");
+    $images = array("./images/coc.png", "./images/ven.png", "./images/its.jpg", "./images/mta.jpeg");
 ?>
